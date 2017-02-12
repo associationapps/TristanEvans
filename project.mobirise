@@ -62,7 +62,7 @@
               "url": ""
             },
             "bgVideoRadio": true,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
