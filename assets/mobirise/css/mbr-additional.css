@@ -415,3 +415,9 @@ h6,
   text-align: center;
   font-size: 12px;
 }
+#header5-2 .mbr-section-title {
+  color: #efefef;
+}
+#header5-2 .mbr-section-lead {
+  color: #9c9a9a;
+}
