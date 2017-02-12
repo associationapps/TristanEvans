@@ -30,7 +30,7 @@
         "title": "",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<iframe width=\"454\" height=\"280\" src=\"https://www.youtube.com/embed/3GECGbKRO0E\" frameborder=\"0\" allowfullscreen></iframe><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
+        "footer_custom": "<iframe width=\"454\" height=\"280\" src=\"https://www.youtube.com/embed/3GECGbKRO0E\" frameborder=\"0\" allowfullscreen></iframe><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\n<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
         "html_before": ""
       },
       "components": [
