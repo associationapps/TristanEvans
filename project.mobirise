@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tristan Evans",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -38,7 +38,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -67,12 +67,12 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "title": "Introducing Tristan Evans",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Back</a>"
         }
       ]
     },
