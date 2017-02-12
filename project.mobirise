@@ -61,7 +61,7 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Introducig Tristan Evans",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
