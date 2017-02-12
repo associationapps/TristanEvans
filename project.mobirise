@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tristan Evans",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
     "versionPublish": "3.11.1"
   },
   "pages": {
-    "index.html": {
+    "oldindex.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -75,7 +75,7 @@
         }
       ]
     },
-    "page1.html": {
+    "index.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
