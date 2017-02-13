@@ -44,22 +44,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/12359981-10205823001315079-8217822760276552423-n-2000x2000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": true,
-                "text": "Everyone Has To Start Somewhere",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Next</a>"
-              }
-            ],
+            "slides": [],
             "fullScreen": true,
             "bgColor": "#fff",
             "showBullets": false
@@ -124,7 +109,7 @@
         "title": "",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "And Start We Did",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
