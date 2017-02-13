@@ -76,7 +76,7 @@
           "_anchor": "content1-d",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "7",
             "bgColor": "#000000"
           },
           "text": "<p>Everyone Has To Start Somewhere&nbsp;</p>",
