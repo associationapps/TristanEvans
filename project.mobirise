@@ -79,7 +79,7 @@
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
-          "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\" class=\"text-white\">N</a>ext Page&nbsp;</p>",
+          "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\">Next Page</a><a href=\"page2.html\"></a><a href=\"page2.html\" class=\"text-white\"></a></p>",
           "_styles": {
             "P": {
               "text-align": "center",
