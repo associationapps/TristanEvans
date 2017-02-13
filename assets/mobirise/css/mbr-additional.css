@@ -426,3 +426,14 @@ h6,
   font-size: 24px;
   color: #efefef;
 }
+#header3-a .mbr-section-title,
+#header3-a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-a H3 {
+  color: #b8312f;
+}
+#header3-a SPAN {
+  font-size: 24px;
+  color: #efefef;
+}
