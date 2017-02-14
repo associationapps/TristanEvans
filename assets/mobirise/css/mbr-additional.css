@@ -439,5 +439,8 @@ h6,
   text-align: center;
 }
 #header1-o .mbr-section-lead P {
-  color: #b8312f;
+  color: #ffffff;
+}
+#header1-o .mbr-section-title {
+  font-size: 14px;
 }

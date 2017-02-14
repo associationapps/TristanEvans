@@ -670,7 +670,10 @@
               "text-align": "center"
             },
             ".mbr-section-lead P": {
-              "color": "#b8312f"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
             }
           }
         }
