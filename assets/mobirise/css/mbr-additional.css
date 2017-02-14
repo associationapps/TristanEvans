@@ -438,3 +438,6 @@ h6,
 #header1-o .mbr-section-lead {
   text-align: center;
 }
+#header1-o .mbr-section-lead P {
+  color: #ffffff;
+}

@@ -668,6 +668,9 @@
           "_styles": {
             ".mbr-section-lead": {
               "text-align": "center"
+            },
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
             }
           }
         }
