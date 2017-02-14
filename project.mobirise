@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tristan Evans",
-    "currentPage": "page3.html",
+    "currentPage": "page1a.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 25,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -73,20 +73,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-d",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "7",
-            "bgColor": "#000000"
-          },
-          "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\">Next Page</a><a href=\"page2.html\"></a><a href=\"page2.html\" class=\"text-white\"></a></p>",
           "_styles": {
             "P": {
               "text-align": "center",
               "font-size": "14px",
               "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "content1-d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#000000"
+          },
+          "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\">Next Page</a><a href=\"page2.html\"></a><a href=\"page2.html\" class=\"text-white\"></a></p>"
         }
       ]
     },
@@ -625,6 +625,51 @@
           },
           "_anchor": "slider-h",
           "articleLayout": false
+        }
+      ]
+    },
+    "page1a.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-o",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/10556532-10202719267083663-4246521011049769314-n-2000x1997.jpg",
+            "bgColor": "#000080",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "And Start She Did",
+          "text": "<p><b>In April of 2014 Tristan was a competitive gymnast spending 25+ hours a week at gym. After struggling with injuries that plague optional gymnasts and a coach that was particularly rough Jamie and I made the hard decision to pull her out of her beloved sport. It was devastating to her. She was very depressed. I began taking her to my sisters house a lot. She worships Eva. She started riding my nephews horse (L.A.) I saw some joy come back into her eyes. So by May we convinced my nephew to sell his horse to us, we bought a trailer and started going to local gameshows. This is the way my family and many others started. Its the place to start before big barrel racing shows...which are the step before the ultimate goal of rodeo. first show in Lake Helen in July (on her birthday the 4th) she didnt win a thing. But, her second show in August she won Grand Champion for the day. It seemed like she was taking to it. Shes always had a natural seat. Might be from gymnastics but, I like to think its genetics. In September we tried our first big barrel race. She didn't win any money but placed for points. In December at her next big show she won a division. She qualified herself for the National Barrel Horse Associations World Show. And we have moved on from there. Shes won money at the Florida State National Barrel Horse Show with about 1,000 entries. She qualified each year to the NBHA Open and Youth World shows. The top 5 in each division qualify. Our hopes are to Florida High School Rodeo starting in the fall. (Following in mine, my sisters and nephews footsteps) Then hopefully a college rodeo career.</b><a href=\"#\">  </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"max-width: 100%; height: auto;\" alt=\"Tristan\" src=\"@PROJECT_PATH@/assets/images/10556532-10202719267083663-4246521011049769314-n.jpg\"> <br> </a></div><a href=\"#\"> </a><br><b><br></b><br><p></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
