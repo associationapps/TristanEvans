@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tristan Evans",
-    "currentPage": "page3.html",
+    "currentPage": "page2b.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 29,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -454,105 +454,6 @@
         }
       ]
     },
-    "page2start.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#b8312f"
-            },
-            "SPAN": {
-              "font-size": "24px",
-              "color": "#efefef"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-8",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000000",
-            "showMeta": true
-          },
-          "title": "<span style=\"font-weight: normal;\">AND START SHE DID</span>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_params": {
-            "autoplay": false,
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340-2000x2588.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
-                "showText": false,
-                "text": "And Start We Did",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Next Page</a>"
-              },
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "VIDEO SLIDE",
-                "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "IMAGE SLIDE",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#000000",
-            "showBullets": false
-          },
-          "_anchor": "slider-7",
-          "articleLayout": false
-        }
-      ]
-    },
     "page2.html": {
       "settings": {
         "title": "",
@@ -602,6 +503,35 @@
             },
             ".mbr-section-lead SPAN": {
               "text-align": "right"
+            }
+          }
+        }
+      ]
+    },
+    "page2b.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "<body>\n<div style=\"text-align: right; color: white;\">NEXT PAGE<br>\n</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\n</body>",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-r",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "7",
+            "bgColor": "#000000"
+          },
+          "text": "<p><a href=\"#\"> </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"max-width: 100%; height: auto;\" alt=\"boots\" src=\"@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340.jpg\"><br> </a></div><a href=\"#\"> <br> </a><p></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
             }
           }
         }
