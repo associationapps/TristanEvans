@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -522,15 +522,15 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-r",
+          "_anchor": "content1-t",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "3",
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"#\"> </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"max-width: 100%; height: auto;\" alt=\"boots\" src=\"@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340.jpg\"><br> </a></div><a href=\"#\"> <br> </a><p></p>",
+          "text": "<p><a href=\"page3.html\" style=\"font-size: 1.07rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">&nbsp;&nbsp;<img style=\"max-width: 100%; height: auto;\" alt=\"boots\" src=\"@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340.jpg\"></a><br></p><div style=\"text-align: center;\"></div><a href=\"page3.html\"> </a><p></p>",
           "_styles": {
-            "P": {
+            "DIV": {
               "color": "#ffffff"
             }
           }
