@@ -541,7 +541,7 @@
       "settings": {
         "title": "",
         "meta_descr": "",
-        "header_custom": "img {\n    max-width: 100%;\n    height: auto;\n}",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
