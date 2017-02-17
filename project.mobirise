@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -87,56 +87,6 @@
             "bgColor": "#000000"
           },
           "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\">Next Page</a><a href=\"page2.html\"></a><a href=\"page2.html\" class=\"text-white\"></a></p>"
-        }
-      ]
-    },
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "header4-0",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1240081-10206370658686171-7051008441050434435-n-2000x3555.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.facebook.com/james.w.evans.3/videos/10208546297754556/"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "Introducing Tristan Evans",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><a href=\"page1.html\">Click To Start</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -445,7 +395,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": true,
+            "fullScreen": false,
             "bgColor": "#fff",
             "showBullets": true
           },
@@ -468,6 +418,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center"
+            },
+            ".mbr-section-lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            },
+            ".mbr-section-lead SPAN": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "header1-o",
           "_params": {
             "parallax": true,
@@ -490,21 +454,7 @@
           },
           "title": "And &nbsp; &nbsp;Start &nbsp; &nbsp; She &nbsp; &nbsp;Did",
           "text": "<p><a href=\"#\"> </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"max-width: 100%; height: auto;\" alt=\"Tristan\" src=\"@PROJECT_PATH@/assets/images/10556532-10202719267083663-4246521011049769314-n.jpg\"> <br> <div style=\"text-align: left; color: white;\"> <p class=\"MsoNormal\">In April of 2014 Tristan was a competitive gymnast spending 25+ hours a week at gym. After struggling with injuries that plague optional gymnasts and a coach that was particularly rough Jamie and I made the hard decision to pull her out of her beloved sport. It was devastating to her. She was very depressed. I began taking her to my sisters house a lot. She worships Eva. She started riding my nephews horse (L.A.) I saw some joy come back into her eyes. So by May we convinced my nephew to sell his horse to us, we bought a trailer and started going to local gameshows. This is the way my family and many others started. Its the place to start before big barrel racing shows...which are the step before the ultimate goal of rodeo. first show in Lake Helen in July (on her birthday the 4th) she didnt win a thing. But, her second show in August she won Grand Champion for the day. It seemed like she was taking to it. Shes always had a natural seat. Might be from gymnastics but, I like to think its genetics. In September we tried our first big barrel race. She didn't win any money but placed for points. In December at her next big show she won a division. She qualified herself for the National Barrel Horse Associations World Show. And we have moved on from there. Shes won money at the Florida State National Barrel Horse Show with about 1,000 entries. She qualified each year to the NBHA Open and Youth World shows. The top 5 in each division qualify. Our hopes are to Florida High School Rodeo starting in the fall. (Following in mine, my sisters and nephews footsteps) Then hopefully a college rodeo career.</p></div></a></div><br><div style=\"text-align: center;\"><div style=\"text-align: left; color: white;\"><p class=\"MsoNormal\"><b><a href=\"page2b.html\" class=\"text-white\">Next Page</a></b></p><a href=\"#\"> </a></div><a href=\"#\"> </a></div><a href=\"#\"> </a><span style=\"font-size: 1.125rem; background-color: rgb(0, 0, 128); line-height: 1.5;\"></span><br><p></p><a href=\"#\"> </a><br><b><br></b><br><p></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center"
-            },
-            ".mbr-section-lead P": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-size": "14px"
-            },
-            ".mbr-section-lead SPAN": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -522,18 +472,113 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-t",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"page3.html\" style=\"font-size: 1.07rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">&nbsp;&nbsp;<img style=\"max-width: 100%; height: auto;\" alt=\"boots\" src=\"@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340.jpg\"></a><br></p><div style=\"text-align: center;\"></div><a href=\"page3.html\"> </a><p></p>",
+          "text": "<p><a href=\"page3.html\" style=\"font-size: 1.07rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">&nbsp;&nbsp;<img style=\"max-width: 100%; height: auto;\" alt=\"boots\" src=\"@PROJECT_PATH@/assets/images/16640770-10154292624057304-5219564181619143159-nx440x340.jpg\"></a><br></p><div style=\"text-align: center;\"></div><a href=\"page3.html\"> </a><p></p>"
+        }
+      ]
+    },
+    "oldindex.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
           "_styles": {
-            "DIV": {
-              "color": "#ffffff"
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "12px"
             }
-          }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1240081-10206370658686171-7051008441050434435-n-2000x3555.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.facebook.com/james.w.evans.3/videos/10208546297754556/"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Introducing Tristan Evans",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><a href=\"page1.html\">Click To Start</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "img {\n    max-width: 100%;\n    height: auto;\n}",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "4",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDE",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-u",
+          "articleLayout": false
         }
       ]
     }
