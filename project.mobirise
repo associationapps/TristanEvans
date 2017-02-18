@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 42,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -64,13 +64,13 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-12",
+          "_anchor": "content1-15",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "6",
+            "paddingBottom": "7",
+            "bgColor": "#000000"
           },
-          "text": "<p><a href=\"page2.html\"> <img style=\"width: 100%; height: auto;\" <=\"\"> </a></p><div style=\"text-align: center;\"><a href=\"page2.html\"><img style=\"width: 720px; height: 720px;\" alt=\"baby_face\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> <br> </a></div><a href=\"page2.html\"> </a><p></p>"
+          "text": "<p><a href=\"page2.html\"> <img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> </a><a href=\"page2.html\"></a></p>"
         }
       ]
     },
