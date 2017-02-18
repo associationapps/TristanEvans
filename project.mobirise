@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 41,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -35,40 +35,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-c",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/12359981-10205823001315079-8217822760276552423-n-2000x2000.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -78,15 +44,33 @@
               "text-align": "center",
               "font-size": "14px",
               "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "30px"
             }
           },
           "_anchor": "content1-d",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "7",
+            "paddingBottom": "0",
             "bgColor": "#000000"
           },
-          "text": "<p>Everyone Has To Start Somewhere</p><p><br></p><p><br></p><p><br></p><p><a href=\"page2.html\">Next Page</a><a href=\"page2.html\"></a><a href=\"page2.html\" class=\"text-white\"></a></p>"
+          "text": "<h4><span style=\"line-height: 1.1;\">Everyone Has To Start Somewhere</span></h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"page2.html\"> <img style=\"width: 100%; height: auto;\" <=\"\"> <div style=\"text-align: center;\"><img style=\"width: 720px; height: 720px;\" alt=\"baby_face\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> <br> </div> </a></p>"
         }
       ]
     },
