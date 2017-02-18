@@ -70,7 +70,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"page2.html\"> <img style=\"width: 100%; height: auto;\" <=\"\"> <div style=\"text-align: center;\"><img style=\"width: 720px; height: 720px;\" alt=\"baby_face\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> <br> </div> </a></p>"
+          "text": "<p><a href=\"page2.html\"> <img style=\"width: 100%; height: auto;\" <=\"\"> </a></p><div style=\"text-align: center;\"><a href=\"page2.html\"><img style=\"width: 720px; height: 720px;\" alt=\"baby_face\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> <br> </a></div><a href=\"page2.html\"> </a><p></p>"
         }
       ]
     },
