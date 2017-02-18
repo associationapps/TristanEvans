@@ -437,7 +437,17 @@ h6,
 #content1-t DIV {
   color: #ffffff;
 }
+
 #header4-0 .mbr-section-title {
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
+}
+#header4-0 .mbr-section-lead {
+  text-align: left;
+  font-size: 25px;
+  color: #000000;
+}
+#content1-16 P {
+  color: #ffffff;
+  font-family: 'Lora', serif;
 }
