@@ -255,10 +255,7 @@ H4 {
 	text-align: center;
 	font-size: 30px;
 }
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }}
+}
 
 #content1-15 {
 IMG.displayed {
@@ -268,14 +265,16 @@ IMG.displayed {
 ...
 <IMG class="displayed" src="..." alt="...">}
 
-#content1-1j {
-P {
-	color: #ffffff;
+#content1-1k {
+DIV {
+	color: #d14841;
 	text-align: center;
 }
-body {
-    color: white;
-}}
+P {
+	text-align: center;
+	color: #ffffff;
+}
+}
 #slider-h img {
   max-width: 100%;
   height: auto;
@@ -399,4 +398,24 @@ body {
 }
 #custom-html-1i .my-image {
   width: 100%;
+}
+#header3-1l .mbr-section-title,
+#header3-1l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1l H3 {
+  font-size: 30px;
+  text-align: right;
+  color: #ffffff;
+}
+#header3-1l SMALL {
+  color: #ffffff;
+}
+#header3-1l P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+}
+#content1-1m P {
+  color: #ffffff;
 }
