@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tristan Evans",
-    "currentPage": "page9.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,81 +27,6 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "page1.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "14px",
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "content1-d",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000000"
-          },
-          "text": "<h4><span style=\"line-height: 1.1;\">Everyone Has To Start Somewhere</span></h4>",
-          "_customCSS": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-15",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000000"
-          },
-          "text": "<p><a href=\"page2.html\"> <img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> </a><a href=\"page2.html\"></a></p>",
-          "_customCSS": "IMG.displayed {\n    display: block;\n    margin-left: auto;\n    margin-right: auto }\n...\n<IMG class=\"displayed\" src=\"...\" alt=\"...\">"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In April of 2014 Tristan was a competitive gymnast. She would often spend 25 hours a week and more at the gym.  After struggling with injuries and a coach that was particularly rough on her, Jamie and I made the difficult decision to pull her out of the sport that she loved so much. Tristan became very depressed because it was devastating to her. She worships my sister Eva so I began taking</span><br></p><p></p><div>her to Eva's house a lot. Before long, she started riding my nephews horse, L.A.. We began to see some joy come back into her eyes, and by May of that year we convinced my nephew to sell his horse to us. We bought a horse trailer and started going to local game-shows. This is the way my family and many others have gotten started, it's the place to start before the big barrel racing shows which are the step before your ultimate goal, which is rodeo. Tristan's first show in Lake Helen</div><div>was on her birthday, the 4th of July. She didn't win anything that time, but on her second show in August, she won \"Grand Champion\".  It seemed like she was taking well to it and that she was a natural. Some of that might be from her gymnastics, but I like to think it has something to do with genetics. In September she tried her first big</div><div>barrel race. She didn't win any money that time, however, she did place on points. At her next big show in December she won a division and qualified for the \"National Barrel Horse Associations World Show\".  I would like to say the rest is history because we have moved on from there.  She has won money at the \"Florida State National\" barrel horse show in which there were about 1000 entries.  She has qualified each year for the NBHA open and youth world shows.  This is a huge feat when you consider only the top 5 in each division qualify. Her hopes are to participate in the Florida High School rodeo starting next fall,</div><div>following in mine, my sisters, and my nephews footsteps.  After that, a college rodeo career could be in her future. Whatever your future</div><div>holds, Tristan, you have made us PROUD!</div><p></p>",
-          "_styles": {
-            "DIV": {
-              "color": "#d14841",
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          },
-          "_customCSS": ""
-        }
-      ]
-    },
     "page3.html": {
       "settings": {
         "title": "",
@@ -1148,7 +1073,82 @@
         }
       ]
     },
-    "page9.html": {
+    "oldpage1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "text": "<h4><span style=\"line-height: 1.1;\">Everyone Has To Start Somewhere</span></h4>",
+          "_customCSS": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000"
+          },
+          "text": "<p><a href=\"page2.html\"> <img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> </a><a href=\"page2.html\"></a></p>",
+          "_customCSS": "IMG.displayed {\n    display: block;\n    margin-left: auto;\n    margin-right: auto }\n...\n<IMG class=\"displayed\" src=\"...\" alt=\"...\">"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">In April of 2014 Tristan was a competitive gymnast. She would often spend 25 hours a week and more at the gym.  After struggling with injuries and a coach that was particularly rough on her, Jamie and I made the difficult decision to pull her out of the sport that she loved so much. Tristan became very depressed because it was devastating to her. She worships my sister Eva so I began taking</span><br></p><p></p><div>her to Eva's house a lot. Before long, she started riding my nephews horse, L.A.. We began to see some joy come back into her eyes, and by May of that year we convinced my nephew to sell his horse to us. We bought a horse trailer and started going to local game-shows. This is the way my family and many others have gotten started, it's the place to start before the big barrel racing shows which are the step before your ultimate goal, which is rodeo. Tristan's first show in Lake Helen</div><div>was on her birthday, the 4th of July. She didn't win anything that time, but on her second show in August, she won \"Grand Champion\".  It seemed like she was taking well to it and that she was a natural. Some of that might be from her gymnastics, but I like to think it has something to do with genetics. In September she tried her first big</div><div>barrel race. She didn't win any money that time, however, she did place on points. At her next big show in December she won a division and qualified for the \"National Barrel Horse Associations World Show\".  I would like to say the rest is history because we have moved on from there.  She has won money at the \"Florida State National\" barrel horse show in which there were about 1000 entries.  She has qualified each year for the NBHA open and youth world shows.  This is a huge feat when you consider only the top 5 in each division qualify. Her hopes are to participate in the Florida High School rodeo starting next fall,</div><div>following in mine, my sisters, and my nephews footsteps.  After that, a college rodeo career could be in her future. Whatever your future</div><div>holds, Tristan, you have made us PROUD!</div><p></p>",
+          "_styles": {
+            "DIV": {
+              "color": "#d14841",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": ""
+        }
+      ]
+    },
+    "page1.html": {
       "settings": {
         "title": "Website Builder Title",
         "meta_descr": "Website Builder Description"
