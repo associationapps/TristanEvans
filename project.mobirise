@@ -72,7 +72,8 @@
             "paddingBottom": "0",
             "bgColor": "#000000"
           },
-          "text": "<p><a href=\"page2.html\"> <img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> </a><a href=\"page2.html\"></a></p>"
+          "text": "<p><a href=\"page2.html\"> <img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\" src=\"@PROJECT_PATH@/assets/images/baby-face.jpg\"> </a><a href=\"page2.html\"></a></p>",
+          "_customCSS": "IMG.displayed {\n    display: block;\n    margin-left: auto;\n    margin-right: auto }\n...\n<IMG class=\"displayed\" src=\"...\" alt=\"...\">"
         },
         {
           "_tags": [
