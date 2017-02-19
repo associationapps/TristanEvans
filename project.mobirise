@@ -800,7 +800,7 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "48px"
+              "font-size": "30px"
             },
             ".mbr-section-lead": {
               "text-align": "left",
@@ -844,7 +844,8 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "content1-16",
