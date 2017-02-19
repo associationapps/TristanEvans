@@ -599,3 +599,21 @@ P {
 #content1-1m P {
   color: #ffffff;
 }
+
+#header4-1r .mbr-section-title {
+  text-align: center;
+  font-size: 48px;
+}
+#header4-1r .mbr-section-lead {
+  text-align: left;
+  font-size: 25px;
+  color: #000000;
+}
+#header4-1r img {
+  max-width: 100%;
+  height: auto;
+}
+#content1-1s P {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
