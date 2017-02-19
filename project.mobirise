@@ -792,52 +792,6 @@
       },
       "components": [
         {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "36px",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left",
-              "font-size": "25px",
-              "color": "#000000"
-            }
-          },
-          "_customCSS": "img {\n    max-width: 100%;\n    height: auto;\n}",
-          "_anchor": "header4-0",
-          "_params": {
-            "parallax": false,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/1240081-10206370658686171-7051008441050434435-n-2000x3555.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.facebook.com/james.w.evans.3/videos/10208546297754556/"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<p>Introducing Tristan Evans<a href=\"page1.html\"><img src=\"@PROJECT_PATH@/assets/images/eyesx800.jpg\" style=\"width: 100%;\" class=\"img-circle\"> <br>  </a><span style=\"font-weight: normal;\"></span><br><br></p>",
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -847,16 +801,17 @@
               "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "left"
             }
           },
           "_anchor": "content1-16",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "7",
+            "paddingBottom": "1",
             "bgColor": "#000000"
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Tristan....this is a short story about how you and your new Aunt Linda &amp; Uncle Raiford met, but more importantly it is a story about you &amp; your horse. In Dec. of 2016 a young lady we had never met before came into our lives. It was during the journey of your dad searching for his birth father that brought us together. Little did we know at the time that our already large family was about to become even larger. We will never forget that day, watching you walk towards us at that \"Cracker Barrel\" Restaurant. Little did we know that you were going to steal our hearts with that first smile &amp; hug of yours. But, it did happen......not only did your dad finally find his dad that day, but we were blessed with three new awesome family members. Tristan, although we have only known you for a very short time we have fallen completely in love with you. Uncle Raiford made you this little app as a special tribute to you &amp; your journey from gymnast to horse riding. We hope you enjoy it! &nbsp;On the next page, in your moms own&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">words is your story:&nbsp;</span><br></p><p>Love,</p><p>Aunt Linda&nbsp;</p>"
+          "text": "<p><span style=\"line-height: 1.5;\"><br></span></p><p><a href=\"page1.html\">    </a></p><p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; color: rgb(255, 255, 255); font-family: Lora, serif; text-align: center; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\"><a href=\"page1.html\"><big><big><big><span style=\"line-height: 1.5;\"><b>Introdujcing Tristan Evans</b></span></big></big></big></a></p><a href=\"page1.html\"> <p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; font-weight: 300; color: rgb(255, 255, 255); font-family: Lora,serif; text-align: center; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\"><big><big><big><span style=\"line-height: 1.5;\"><img style=\"width: 806px; height: 234px;\" alt=\"eyes.jpg\" src=\"@PROJECT_PATH@/assets/images/eyesx800cliped.jpg\" class=\"img-circle\"><br> </span></big></big></big></p> <p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; font-weight: 300; color: rgb(255, 255, 255); font-family: Lora,serif; text-align: left; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\"><span style=\"line-height: 1.5;\"><br style=\"\"> </span></p> <p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; font-weight: 300; color: rgb(255, 255, 255); font-family: Lora,serif; text-align: left; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\"><span style=\"line-height: 1.5;\">Tristan....this is a short story about how you and your new Aunt Linda &amp; Uncle Raiford met, but more importantly it is a story about you &amp; your horse. In Dec. of 2016 a young lady we had never met before came into our lives. It was during the journey of your dad searching for his birth father that brought us together. Little did we know at the time that our already large family was about to become even larger. We will never forget that day, watching you walk towards us at that \"Cracker Barrel\" Restaurant. Little did we know that you were going to steal our hearts with that first smile &amp; hug of yours. But, it did happen......not only did your dad finally find his dad that day, but we were blessed with three new awesome family members. Tristan, although we have only known you for a very short time we have fallen completely in love with you. Uncle Raiford made you this little app as a special tribute to you &amp; your journey from gymnast to horse riding. We hope you enjoy it! &nbsp;On the next page, in your moms own&nbsp;</span><span style=\"line-height: 1.5;\">words is your story:&nbsp;</span><br style=\"\"> </p> <p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; font-weight: 300; color: rgb(255, 255, 255); font-family: Lora,serif; text-align: left; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\">Love,</p> <p style=\"margin-bottom: 0px; margin-top: 0px; font-size: 14px; font-weight: 300; color: rgb(255, 255, 255); font-family: Lora,serif; text-align: left; font-style: normal; font-variant: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 0);\">Aunt Linda <br> </p>  </a><p></p>"
         }
       ]
     },
