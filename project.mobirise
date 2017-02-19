@@ -811,9 +811,9 @@
           "_customCSS": "img {\n    max-width: 100%;\n    height: auto;\n}",
           "_anchor": "header4-0",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1240081-10206370658686171-7051008441050434435-n-2000x3555.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -831,8 +831,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Introducing Tristan Evans",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><a href=\"page1.html\" class=\"text-white\">Click To Start</a><br>",
+          "title": "Introducing Tristan Evans<br>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><a href=\"page1.html\" style=\"font-size: 1.07rem; line-height: 1.5; background-color: rgb(255, 255, 255);\">Click To Start</a><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -854,7 +854,7 @@
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
-          "text": "<p>Tristan....this is a short story about how you and your new Aunt Linda &amp; Uncle Raiford met, but more importantly it is a story about you &amp; your horse. In Dec. of 2016 a young lady we had never met before came into our lives. It was during the journey of your dad searching for his birth father that brought us together. Little did we know at the time that our already large family was about to become even larger. We will never forget that day, watching you walk towards us at that \"Cracker Barrel\" Restaurant. Little did we know that you were going to steal our hearts with that first smile &amp; hug of yours. But, it did happen......not only did your dad finally find his dad that day, but we were blessed with three new awesome family members. Tristan, although we have only known you for a very short time we have fallen completely in love with you. Uncle Raiford made you this little app as a special tribute to you &amp; your journey from gymnast to horse riding. We hope you enjoy it! Below in your moms own&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">words is your story:&nbsp;</span></p><p>Love,</p><p>Aunt Linda&nbsp;</p>"
+          "text": "<p><span style=\"line-height: 1.5;\">Tristan....this is a short story about how you and your new Aunt Linda &amp; Uncle Raiford met, but more importantly it is a story about you &amp; your horse. In Dec. of 2016 a young lady we had never met before came into our lives. It was during the journey of your dad searching for his birth father that brought us together. Little did we know at the time that our already large family was about to become even larger. We will never forget that day, watching you walk towards us at that \"Cracker Barrel\" Restaurant. Little did we know that you were going to steal our hearts with that first smile &amp; hug of yours. But, it did happen......not only did your dad finally find his dad that day, but we were blessed with three new awesome family members. Tristan, although we have only known you for a very short time we have fallen completely in love with you. Uncle Raiford made you this little app as a special tribute to you &amp; your journey from gymnast to horse riding. We hope you enjoy it! Below in your moms own&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">words is your story:&nbsp;</span><br></p><p>Love,</p><p>Aunt Linda&nbsp;</p>"
         }
       ]
     },
