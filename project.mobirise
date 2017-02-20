@@ -821,7 +821,7 @@
           "_anchor": "content1-1t",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": "7",
             "bgColor": "#000000"
           },
           "text": ""
