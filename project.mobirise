@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -821,6 +821,19 @@
           "_anchor": "content1-1t",
           "_params": {
             "paddingTop": 1,
+            "paddingBottom": "7",
+            "bgColor": "#000000"
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": "7",
             "paddingBottom": "7",
             "bgColor": "#000000"
           },
